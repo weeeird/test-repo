@@ -1,8 +1,6 @@
-#include<bits/stdc++>
-using namespace std;
+#include<stdio.h>
 int main()
 {
-	cout<<hello world!<<endl;
+	printf("hello world!");
 	return 0;
-	system("pause");
 }
